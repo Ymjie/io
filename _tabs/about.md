@@ -4,5 +4,12 @@ icon: fas fa-info
 order: 4
 ---
 
+# 关于我
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+喜欢web渗透，网站开发搭建。梦想成为一名白帽子。
+
+爱翻墙，喜异见，猿类之一。好思考，走极端，强迫性折腾各种问题。较冷静，心智略成熟，稍有自我。
+
+喜欢购买特价VPS，公益机场站长。
+
+目前网络活动以Linux、Python、PHP为主，游荡在地球村各个角落，喜欢玩LOL，Theshy粉。读书有限，识略大于知，思辨尚不明，努力培养中。
