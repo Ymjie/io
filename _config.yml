@@ -20,12 +20,10 @@ title: Ymjie's Blog                          # the main title
 tagline: The Boy Who Shattered Time   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  爱翻墙，喜异见，猿类之一。好思考，走极端，强迫性折腾各种问题。较冷静，心智略成熟，稍有自我。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ymjie.github.io/'
+url: 'https://ymjie.github.io'
 
 github:
   username: Ymjie             # change to your github username
@@ -83,8 +81,8 @@ avatar: https://q1.qlogo.cn/g?b=qq&nk=209649403&s=640
 toc: true
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'ymjblog'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
